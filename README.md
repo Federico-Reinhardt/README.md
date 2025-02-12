@@ -7,9 +7,11 @@
 
 - 💬 Ask me about **Data Analysis | Business Intelligence | Data Visualization | SQL | BI Tools (e.g., Tableau, Power BI) | Statistics | Problem Solving**
 
-- <p align="center">
+
+My Tools
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,figma,github,py,,sql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,figma,github,linux,mysql,py&perline=14" />
   </a>
 </p>
 
@@ -20,8 +22,4 @@
 <a href="https://linkedin.com/in/federico-reinhardt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-reinhardt" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,figma,github,linux,mysql,py&perline=14" />
-  </a>
-</p>
+
