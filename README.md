@@ -7,6 +7,12 @@
 
 - 💬 Ask me about **Data Analysis | Business Intelligence | Data Visualization | SQL | BI Tools (e.g., Tableau, Power BI) | Statistics | Problem Solving**
 
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,figma,github,py,,sql&perline=14" />
+  </a>
+</p>
+
 - 📫 How to reach me **federico.ar91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
