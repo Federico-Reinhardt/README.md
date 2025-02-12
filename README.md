@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Federico Reinhardt</h1> [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
+<h1 align="center">Hi 👋, I'm Federico Reinhardt</h1>
 <h3 align="center">I am a passionate Data Analyst with a strong background in Business Intelligence, focused on unraveling meaningful insights from complex data. My goal is to turn data into strategic decisions to drive business success.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
