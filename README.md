@@ -8,7 +8,7 @@
 - 💬 Ask me about **Data Analysis | Business Intelligence | Data Visualization | SQL | BI Tools (e.g., Tableau, Power BI) | Statistics | Problem Solving**
 
 
-My Tools
+<h3 align="center">My Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,figma,github,linux,mysql,py&perline=14" />
